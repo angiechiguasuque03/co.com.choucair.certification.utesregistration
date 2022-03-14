@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="User UTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-03-11T21:40:54" hostname="CHBOGDRJBYF3" time="0.022">
+  <properties/>
+  <testcase name="Create new user" classname="User UTest" time="0.022">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6de26069
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@58d51011
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@14feea71
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Create new user:Given Nikol wants to sign up for Utest, When she finds "Join Today", click and fill in the requires fields., Then confirm the user creation.
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Create new user:Given Nikol wants to sign up for Utest, When she finds "Join Today", click and fill in the requires fields., Then confirm the user creation.]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Create new user:Given Nikol wants to sign up for Utest, When she finds "Join Today", click and fill in the requires fields., Then confirm the user creation.]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Create new user
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
